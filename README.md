@@ -1,1 +1,1 @@
-Menu Management: This module allows cafe owners to create and manage their menu items efficiently. It should support adding, editing, and deleting menu items, along with specifying details such as item name, description, price, and availability.
+
